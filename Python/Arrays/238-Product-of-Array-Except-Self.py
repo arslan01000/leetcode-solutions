@@ -17,4 +17,5 @@ class Solution:
         
         return answer
 
-# for more info in leetcode: https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
+# LeetCode 334: Increasing Triplet Subsequence  
+# Check if there exists an increasing subsequence of length 3 in the array using O(n) time and O(1) space.
